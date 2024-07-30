@@ -90,7 +90,7 @@
     "webpack-nano": "^1.1.1"
   },
   "dependencies": {
-    "@aws-sdk/client-cloudwatch-logs": "^3.51.0",
+    "@aws-sdk/client-cloudwatch-logs": "^3.529.0",
     "@hookform/resolvers": "^2.8.8",
     "@reduxjs/toolkit": "^1.7.1",
     "axios": "^0.25.0",
