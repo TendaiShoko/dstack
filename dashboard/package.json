@@ -100,7 +100,7 @@
     "diff2html": "^3.4.16",
     "emoji-hash-gen": "^1.0.2",
     "i18next": "^21.6.6",
-    "postcss-mixins": "^9.0.1",
+    "postcss-mixins": "^9.0.2",
     "prismjs": "^1.26.0",
     "rc-tooltip": "^5.1.1",
     "react": "^17.0.2",
